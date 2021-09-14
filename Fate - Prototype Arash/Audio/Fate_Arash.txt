@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2304649	Play_Leader_Arash_Stella			\Default Work Unit\Play_Leader_Arash_Stella	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	470320995	Stella	G:\Documents\WwiseProjects\Arash\.cache\Windows\SFX\Stella_4B8CC0C5.wem	470320995.wem	\Interactive Music Hierarchy\Default Work Unit\DS_Leader_Speak\DS_Leader_Speak_Stella\DS_Leader_Speak_Stella\Stella	
+

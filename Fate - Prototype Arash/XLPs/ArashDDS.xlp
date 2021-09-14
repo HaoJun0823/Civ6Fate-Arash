@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="ArashDDS"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_256"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_32"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_45"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_48"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_50"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_55"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_64"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_80"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ARASH_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FATE_ARASH_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ARASH_NEUTRAL_2"/>
+			<m_ObjectName text="LEADER_FATE_ARASH_NEUTRAL_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_ARASH_BACKGROUND"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_ARASH_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_ARASH_BACKGROUND_LOAD"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_ARASH_BACKGROUND_LOAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_CIV_45"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_CIV_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_256"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_32"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_45"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_48"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_50"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_55"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_64"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_ARASH_BODY_80"/>
+			<m_ObjectName text="ICON_LEADER_FATE_ARASH_BODY_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

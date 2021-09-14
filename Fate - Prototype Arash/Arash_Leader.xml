@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arash_Leader -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/21/2019 2:35:19 PM -->
+<GameData>
+	<Types>
+		<Row Type="LEADER_FATE_ARCHER_ARASH" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_FATE_ARCHER_ARASH_BODY" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_FATE_ARCHER_ARASH" Name="LOC_LEADER_FATE_ARCHER_ARASH_NAME" InheritFrom="LEADER_DEFAULT" Sex="Male" SceneLayers="4"/>
+	</Leaders>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_FATE_ARCHER_ARASH" Quote="LOC_LEADER_FATE_ARCHER_ARASH_MEETING"/>
+	</LeaderQuotes>
+
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO" Name="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_NAME" Description="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_DESC"/>
+		<Row TraitType="TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA" Name="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_NAME" Description="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_DESC"/>
+		<Row TraitType="TRAIT_LEADER_FATE_ARCHER_ARASH_BODY" Name="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_NAME" Description="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_DESC"/>
+	</Traits>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_FATE_ARCHER_ARASH" TraitType="TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA"/>
+		<Row LeaderType="LEADER_FATE_ARCHER_ARASH" TraitType="TRAIT_LEADER_FATE_ARCHER_ARASH_BODY"/>
+	</LeaderTraits>
+
+	<Agendas>
+		<Row AgendaType="AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO" Name="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_NAME" Description="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_DESC"/>
+	</Agendas>
+
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_FATE_ARCHER_ARASH" AgendaType="AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO"/>
+	</HistoricalAgendas>
+
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO" TraitType="TRAIT_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO"/>
+	</AgendaTraits>
+
+	<!--<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_ARCHER_ARASH_PRIMARY</Type>
+			<Color>179,39,55,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_ARCHER_ARASH_SECONDARY</Type>
+			<Color>43,125,125,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_ARCHER_ARASH_TEXT</Type>
+			<Color>216,216,200,255</Color>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FATE_ARCHER_ARASH</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FATE_ARCHER_ARASH_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FATE_ARCHER_ARASH_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_FATE_ARCHER_ARASH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>-->
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FATE_ARCHER_ARASH" ForegroundImage="LEADER_FATE_ARASH_NEUTRAL_2" BackgroundImage="LEADER_NEUTRAL_FATE_ARASH_BACKGROUND_LOAD" PlayDawnOfManAudio="0"  LeaderText="LOC_LOADING_INFO_LOC_LEADER_FATE_ARCHER_ARASH_DESC"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FATE_ARCHER_ARASH" BackgroundImage="LEADER_NEUTRAL_FATE_ARASH_BACKGROUND"/>
+	</DiplomacyInfo>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_PERSIA" LeaderType="LEADER_FATE_ARCHER_ARASH" CapitalName="LOC_CITY_NAME_PASARGADAE"/>
+	</CivilizationLeaders>
+	
+	
+	
+
+</GameData>

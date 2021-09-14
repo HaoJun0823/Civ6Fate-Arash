@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>G:\Documents\WwiseProjects\Arash\</ProjectRoot>
+		<SourceFilesRoot>G:\Documents\WwiseProjects\Arash\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>G:\Documents\WwiseProjects\Arash\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>G:\Documents\WwiseProjects\Arash\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="470320995" Language="SFX">
+			<ShortName>Stella.wav</ShortName>
+			<Path>SFX\Stella_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3118571977" Language="SFX">
+			<ShortName>Fate_Arash</ShortName>
+			<Path>Fate_Arash.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2304649" Name="Play_Leader_Arash_Stella"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="470320995"/>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

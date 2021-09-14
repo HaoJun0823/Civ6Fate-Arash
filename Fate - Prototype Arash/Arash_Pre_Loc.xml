@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arash_Pre_Loc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/21/2019 2:46:23 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_NAME" Language="zh_Hans_CN">
+			<Text>阿拉什</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_NAME" Language="zh_Hans_CN">
+			<Text>流星一条</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_DESC" Language="zh_Hans_CN">
+			<Text>所有远程[ICON_Ranged](射程大于0)的单位攻击敌人单位伤害[ICON_Strength]额外提高500%。[NEWLINE][COLOR_FLOAT_GOLD]不会在战斗力对比界面显示该效果。[ENDCOLOR][NEWLINE][COLOR_FLOAT_CULTURE]攻击后该单位会死亡。[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_NAME" Language="zh_Hans_CN">
+			<Text>孤独的战士，如狮子般勇敢的他</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_DESC" Language="zh_Hans_CN">
+			<Text>远程单位和城市防御的[ICON_Range]射程+2，单位的视野+4。</Text>
+		</Row>
+
+
+	</LocalizedText>
+
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_NAME" Language="zh_Hant_HK">
+			<Text>阿拉什</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_NAME" Language="zh_Hant_HK">
+			<Text>流星壹條</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_DESC" Language="zh_Hant_HK">
+			<Text>所有遠程[ICON_Ranged](射程大於0)的單位攻擊敵人單位傷害[ICON_Strength]額外提高500%。[NEWLINE][COLOR_FLOAT_GOLD]不會在戰鬥力對比界面顯示該效果。[ENDCOLOR][NEWLINE][COLOR_FLOAT_CULTURE]攻擊後該單位會死亡。[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_NAME" Language="zh_Hant_HK">
+			<Text>孤獨的戰士，如獅子般勇敢的他</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_DESC" Language="zh_Hant_HK">
+			<Text>遠程單位和城市防禦的[ICON_Range]射程+2，單位的視野+4。</Text>
+		</Row>
+
+
+	</LocalizedText>
+
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_NAME" Language="en_US">
+			<Text>Arash</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_NAME" Language="en_US">
+			<Text>Stella!!!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_STELLA_DESC" Language="en_US">
+			<Text> All units [ICON_Ranged] (range greater than 0) attack enemy unit damage [ICON_Strength] increased by 500%. [NEWLINE][COLOR_FLOAT_GOLD] will not show this effect on the combat power comparison screen. [ENDCOLOR][NEWLINE][COLOR_FLOAT_CULTURE]The unit will die after the attack. [ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_NAME" Language="en_US">
+			<Text>Lonely warrior, brave as a lion</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_ARCHER_ARASH_BODY_DESC" Language="en_US">
+			<Text> Remote unit and city defense [ICON_Range] range +2, unit view +4. </Text>
+		</Row>
+
+
+	</LocalizedText>
+
+
+</GameData>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arash_In_Loc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/21/2019 2:46:30 PM -->
+<GameData>
+	<LocalizedText>
+
+
+
+		<Row Tag="LOC_LOADING_INFO_LOC_LEADER_FATE_ARCHER_ARASH_DESC" Language="en_US">
+			<Text>A hero of legend from ancient Persia.[NEWLINE]He brought an end to the 60-year war between the Persians and Turks while serving under King Manuchehr, who was known as the last king of the age of gods in west Asia. The savior who brought peace and order to both peoples.</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_MEETING" Language="en_US">
+			<Text> Hello! I am the Persian hero Arash~ Well... not so great, but I am very glad to meet you. </Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_NAME" Language="en_US">
+			<Text>Persian Heroes</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_DESC" Language="en_US">
+			<Text> has a sense of honor and hates unscrupulous behavior. </Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you announce your friendship to the AI ​​-->
+			<Text> Ok, okay, the more friends, the better~ Let's go to the bar? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you declare your friendship to be rejected by AI -->
+			<Text>uh... Forget it, think about it in the next few days. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When AI announces friendship to you -->
+			<Text> You look like a good guy! Going to the bar together? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you agree with AI's declaration of friendship to you -->
+			<Text> A drunk party! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you refuse AI to declare your friendship -->
+			<Text> Think again? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you declare war on this AI? -->
+			<Text> It’s not easy to fight with you, but in the end I win? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When this AI declares war on you? -->
+			<Text>Hey, I haven’t done a good job recently, I should deal with you. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When AI is defeated by other AIs, will these words be said? -->
+			<Text>Hmm~ Just like this, in order to keep my strength, see you next time~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you beat AI, will he say these words? -->
+			<Text> Very good! This is the fighting power of the power of the great hero! Be careful when I meet next time? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When AI agrees with your delegation -->
+			<Text>Thanks, thank you, I have to see if there is anything delicious. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When AI rejects your delegation -->
+			<Text>The things on your side are really good~ Of course, I am not bad here. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<Text>Arash, am I the world's first archer? Of course, if you don't shoot, there are some hummus here. </Text>
+			<!-- Leader Diplomatic Information: When AI sends a delegation -->
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you publicly accuse AI-->
+			<Text>hmm. This is not a good act! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When AI publicly accuses you-->
+			<Text> Pay attention to it. [NEWLINE] (condemn you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you first encountered AI-->
+			<Text> Yeah friends, meet again, want to go hunting together? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When was the first time you met AI and he was more active? -->
+			<Text>You are good here, how about doing more business? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: When you first met AI and he was closer to you? -->
+			<Text>I can shoot your city from here by archery? Of course it’s not bragging...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomatic Information: Generally used to say hello-->
+			<Text>Okay, friend. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: The front of the AI ​​has increased your favor ->
+<Text> You have done a good thing, of course I have to admire you. </Text>
+</Row>
+
+<Row Tag="LOC_DIPLO_KUDO_LEADER_FATE_ARCHER_ARASH_REASON_ANY" Language="en_US">
+<!-- Leader Diplomatic Information: A description of the increased AI's affection for you-->
+			<Text>(Arash has increased your affection for you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: The AI ​​has reduced the favor of you ->
+<Text> This kind of thing can be disgraceful, next time you pay attention to it...</Text>
+</Row>
+
+<Row Tag="LOC_DIPLO_WARNING_LEADER_FATE_ARCHER_ARASH_REASON_ANY" Language="en_US">
+<!-- Leader Diplomacy: A description of the reduced AI's affection for you-->
+			<Text>(Arash has reduced your affection for you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomacy: AI allows you to alliance -->
+			<Text> Ok! Go and do something together! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_ARCHER_ARASH_ANY" Language="en_US">
+			<!-- Leader Diplomatic Information: AI promises you peace request -->
+			<Text> Yes, even if it is ok. </Text>
+		</Row>
+
+	</LocalizedText>
+
+
+	<!-- 简体中文 -->
+	<LocalizedText>
+
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_MEETING" Language="zh_Hans_CN">
+			<Text>你好！我是波斯大英雄阿拉什~嘛……没有那么伟大啦，不过很高兴认识你哦。</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_NAME" Language="zh_Hans_CN">
+			<Text>波斯大英雄</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_DESC" Language="zh_Hans_CN">
+			<Text>具有荣誉感，讨厌无良行为。</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LOC_LEADER_FATE_ARCHER_ARASH_DESC" Language="zh_Hans_CN">
+			<Text>古代波斯传说中的大英雄。[NEWLINE]作为被誉为西亚神代最后王者的曼努契黑尔王的战士，[NEWLINE]终结了波斯与图尔库之间长达六十年的的战争。[NEWLINE]为两国民众带来和平与安宁的救世勇者。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 你对AI宣布友谊允许的时候 -->
+			<Text>好啊好啊，朋友越多越好嘛~我们去喝酒吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 你对AI宣布友谊被拒绝的时候 -->
+			<Text>呜……算了，这几天再考虑考虑。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当AI对你宣布友谊的时候 -->
+			<Text>你看起来是个不错的家伙嘛！一起去喝酒吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你同意AI对你的宣布友谊 -->
+			<Text>一醉方休！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你拒绝AI对你的宣布友谊 -->
+			<Text>再想想吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你对这个AI宣战？ -->
+			<Text>和你战斗并不容易，但最后是我赢哦？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当这个AI向你宣战？ -->
+			<Text>喂喂喂，你最近做的事情不太好，我该应对你了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当AI被其他AI击败会说这些话？ -->
+			<Text>嗯嗯~就这样，为了保守我的力量，下次再见吧~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你击败AI他会说这些话？-->
+			<Text>很好！这才是媲美大英雄之力的战斗力！下次见面可要小心我哦？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当AI同意你的代表团-->
+			<Text>感谢感谢，我要看看有没有什么好吃的。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当AI拒绝你的代表团-->
+			<Text>你那边的东西真的不错嘛~当然，我这里的也不差。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<Text>阿拉什我可是世界最早的弓箭手哦？当然如果你不射箭的话，这里也有一些鹰嘴豆泥。</Text>
+			<!-- 领袖外交信息: 当AI派遣代表团的时候-->
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你公开指责AI-->
+			<Text>啧。这可不是什么好行为！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当AI公开指责你-->
+			<Text>注意点哦。[NEWLINE]（谴责你）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你第一次遇到AI-->
+			<Text>呀朋友，又见面了，想一起去打猎吗？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+			<!-- 领袖外交信息: 当你第一次遇到AI并且他比较积极的时候？-->
+			<Text>你这里不错嘛，多做一些买卖如何？</Text>
+		</Row>
+			<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: 当你第一次遇到AI并且他离你比较近的时候？-->
+				<Text>我从这里射箭就能到你的城市哦？当然不是吹牛啦……</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: 一般打招呼用-->
+				<Text>好啊，朋友。</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI对你的好感增加了的前置-->
+				<Text>你做了好事，我当然要对你表达敬佩之情啊。</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_KUDO_LEADER_FATE_ARCHER_ARASH_REASON_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI对你的好感增加了的描述-->
+				<Text>（阿拉什对您的好感增加了）</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI对你的好感减少了的前置-->
+				<Text>这种事可不光彩，下次注意点哦……</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_WARNING_LEADER_FATE_ARCHER_ARASH_REASON_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI对你的好感减少了的描述-->
+				<Text>（阿拉什对您的好感减少了）</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI允许你同盟-->
+				<Text>好吧！一起去做点事情！</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI答应你和平的请求-->
+				<Text>可以，就算是可以吧。</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI拒绝你和平的请求-->
+				<Text>你为什么要求和？难不成是怕了我？我倒是不怕你~</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI主动提出和平的请求-->
+				<Text>不打了不打了！</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI答应你通过他的领地-->
+				<Text>没什么问题，反正我的箭很准。</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI拒绝你通过他的领地-->
+				<Text>这件事情以后再说，现在不行。</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI询问你是否愿意让他的部队通过你的领地-->
+				<Text>喂喂伟大的统治者，我能路过你那里吗？</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI说你军队差劲-->
+				<Text>哎，这可不是什么好弓，那也不是什么好剪……</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI他提出一个交易？-->
+				<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY}</Text>
+			</Row>
+
+			<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hans_CN">
+				<!-- 领袖外交信息: AI他拒绝你的一个交易？-->
+				<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY}</Text>
+			</Row>
+
+
+
+
+
+			<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_TITLE" Language="zh_Hans_CN">
+				<!-- 领袖百科信息: 名字-->
+				<Text>阿拉什</Text>
+			</Row>
+
+			<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_SUBTITLE" Language="zh_Hans_CN">
+				<!-- 领袖百科信息: 描述-->
+				<Text>波斯大英雄</Text>
+			</Row>
+
+			<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_QUOTE" Language="zh_Hans_CN">
+				<!-- 领袖百科信息: 一段有语音的词，单独被展示出来-->
+				<Text>Stella！</Text>
+			</Row>
+
+			<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+				<!-- 领袖百科信息: 历史1段，还可以有2,3？-->
+				<Text>{LOC_LOADING_INFO_LEADER_FATE_ARCHER_ARASH}</Text>
+			</Row>
+
+			<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+				<!-- 领袖百科信息:描述你怎么解决这个领袖-->
+				<Text>小心阿拉什的远程单位。</Text>
+			</Row>
+
+			<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+				<!-- 领袖百科信息: 描述你该怎么玩这个领袖-->
+				<Text>尽可能训练更多的远程单位去攻击敌人。</Text>
+			</Row>
+			<!-- 领袖信息结束-->
+
+
+
+		</LocalizedText>
+
+
+
+	<!-- 繁體中文 -->
+	<LocalizedText>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_MEETING" Language="zh_Hant_HK">
+			<Text>妳好！我是波斯大英雄阿拉什~嘛……沒有那麽偉大啦，不過很高興認識妳哦。</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_NAME" Language="zh_Hant_HK">
+			<Text>波斯大英雄</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEADER_FATE_ARCHER_ARASH_BIG_HERO_DESC" Language="zh_Hant_HK">
+			<Text>具有榮譽感，討厭無良行為。</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LOC_LEADER_FATE_ARCHER_ARASH_DESC" Language="zh_Hant_HK">
+			<Text>古代波斯傳說中的大英雄。[NEWLINE]作為被譽為西亞神代最後王者的曼努契黑爾王的戰士，[NEWLINE]終結了波斯與圖爾庫之間長達六十年的的戰爭。[NEWLINE]為兩國民眾帶來和平與安寧的救世勇者。</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 妳對AI宣布友誼允許的時候 -->
+			<Text>好啊好啊，朋友越多越好嘛~我們去喝酒吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 妳對AI宣布友誼被拒絕的時候 -->
+			<Text>嗚……算了，這幾天再考慮考慮。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當AI對妳宣布友誼的時候 -->
+			<Text>妳看起來是個不錯的家夥嘛！壹起去喝酒吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳同意AI對妳的宣布友誼 -->
+			<Text>壹醉方休！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳拒絕AI對妳的宣布友誼 -->
+			<Text>再想想吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳對這個AI宣戰？ -->
+			<Text>和妳戰鬥並不容易，但最後是我贏哦？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當這個AI向妳宣戰？ -->
+			<Text>餵餵餵，妳最近做的事情不太好，我該應對妳了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當AI被其他AI擊敗會說這些話？ -->
+			<Text>嗯嗯~就這樣，為了保守我的力量，下次再見吧~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳擊敗AI他會說這些話？-->
+			<Text>很好！這才是媲美大英雄之力的戰鬥力！下次見面可要小心我哦？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當AI同意妳的代表團-->
+			<Text>感謝感謝，我要看看有沒有什麽好吃的。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當AI拒絕妳的代表團-->
+			<Text>妳那邊的東西真的不錯嘛~當然，我這裏的也不差。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<Text>阿拉什我可是世界最早的弓箭手哦？當然如果妳不射箭的話，這裏也有壹些鷹嘴豆泥。</Text>
+			<!-- 領袖外交信息: 當AI派遣代表團的時候-->
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳公開指責AI-->
+			<Text>嘖。這可不是什麽好行為！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當AI公開指責妳-->
+			<Text>註意點哦。[NEWLINE]（譴責妳）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳第壹次遇到AI-->
+			<Text>呀朋友，又見面了，想壹起去打獵嗎？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳第壹次遇到AI並且他比較積極的時候？-->
+			<Text>妳這裏不錯嘛，多做壹些買賣如何？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 當妳第壹次遇到AI並且他離妳比較近的時候？-->
+			<Text>我從這裏射箭就能到妳的城市哦？當然不是吹牛啦……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: 壹般打招呼用-->
+			<Text>好啊，朋友。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI對妳的好感增加了的前置-->
+			<Text>妳做了好事，我當然要對妳表達敬佩之情啊。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FATE_ARCHER_ARASH_REASON_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI對妳的好感增加了的描述-->
+			<Text>（阿拉什對您的好感增加了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI對妳的好感減少了的前置-->
+			<Text>這種事可不光彩，下次註意點哦……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FATE_ARCHER_ARASH_REASON_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI對妳的好感減少了的描述-->
+			<Text>（阿拉什對您的好感減少了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI允許妳同盟-->
+			<Text>好吧！壹起去做點事情！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI答應妳和平的請求-->
+			<Text>可以，就算是可以吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI拒絕妳和平的請求-->
+			<Text>妳為什麽要求和？難不成是怕了我？我倒是不怕妳~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI主動提出和平的請求-->
+			<Text>不打了不打了！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI答應妳通過他的領地-->
+			<Text>沒什麽問題，反正我的箭很準。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI拒絕妳通過他的領地-->
+			<Text>這件事情以後再說，現在不行。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI詢問妳是否願意讓他的部隊通過妳的領地-->
+			<Text>餵餵偉大的統治者，我能路過妳那裏嗎？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI說妳軍隊差勁-->
+			<Text>哎，這可不是什麽好弓，那也不是什麽好剪……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI他提出壹個交易？-->
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY" Language="zh_Hant_HK">
+			<!-- 領袖外交信息: AI他拒絕妳的壹個交易？-->
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_ARCHER_ARASH_ANY}</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_TITLE" Language="zh_Hant_HK">
+			<!-- 領袖百科信息: 名字-->
+			<Text>阿拉什</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_SUBTITLE" Language="zh_Hant_HK">
+			<!-- 領袖百科信息: 描述-->
+			<Text>波斯大英雄</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_QUOTE" Language="zh_Hant_HK">
+			<!-- 領袖百科信息: 壹段有語音的詞，單獨被展示出來-->
+			<Text>Stella！</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<!-- 領袖百科信息: 歷史1段，還可以有2,3？-->
+			<Text>{LOC_LOADING_INFO_LEADER_FATE_ARCHER_ARASH}</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+			<!-- 領袖百科信息:描述妳怎麽解決這個領袖-->
+			<Text>小心阿拉什的遠程單位。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ARCHER_ARASH_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+			<!-- 領袖百科信息: 描述妳該怎麽玩這個領袖-->
+			<Text>盡可能訓練更多的遠程單位去攻擊敵人。</Text>
+		</Row>
+		<!-- 領袖信息結束-->
+
+
+
+	</LocalizedText>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_GOOD_TEXT" Language="zh_hans_CN">
+			<Text>你很喜欢和平嘛！不错的！</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_GOOD_TEXT_DESC" Language="zh_hans_CN">
+			<Text>你最近没有处于战争。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_BAD_TEXT" Language="zh_hans_CN">
+			<Text>不管是打人还是被打，战争都是不好的哦~</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_BAD_TEXT_DESC" Language="zh_hans_CN">
+			<Text>你最近处于战争。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_GOOD_TEXT" Language="zh_Hant_HK">
+			<Text>妳很喜歡和平嘛！不錯的！</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_GOOD_TEXT_DESC" Language="zh_Hant_HK">
+			<Text>妳最近沒有處於戰爭。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_BAD_TEXT" Language="zh_Hant_HK">
+			<Text>不管是打人還是被打，戰爭都是不好的哦~</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_BAD_TEXT_DESC" Language="zh_Hant_HK">
+			<Text>妳最近處於戰爭。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_GOOD_TEXT" Language="en_US">
+			<Text> You like peace very much! Good! </Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_GOOD_TEXT_DESC" Language="en_US">
+			<Text> You have not been in war recently. </Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_BAD_TEXT" Language="en_US">
+			<Text> Whether it is beating or being beaten, war is not good~</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ARCHER_ARASH_AGENDA_BAD_TEXT_DESC" Language="en_US">
+			<Text> You are in the war recently. </Text>
+		</Row>
+		
+	</LocalizedText>
+
+
+</GameData>

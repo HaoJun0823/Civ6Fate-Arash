@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Fate Prototype - Arash</Name>
+    <Guid>291e81d6-171d-49fc-a570-7aa6e7674e08</Guid>
+    <ProjectGuid>328ac7a2-c58f-4dc0-a8f6-8a496f3985c2</ProjectGuid>
+    <ModVersion>2</ModVersion>
+    <Teaser>Stella!</Teaser>
+    <Description>Add Archer from Fate - Prototype to the game: Arash</Description>
+    <Authors>Randerion(HaoJun0823)</Authors>
+    <SpecialThanks>All players, modders and TYPE-MOON.</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>Fate - Prototype Arash</AssemblyName>
+    <RootNamespace>Fate - Prototype Arash</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="DLC: Persia and Macedon Civilization Pack" id="E2749E9A-8056-45CD-901B-C368C8E83DEB" />
+</Associations>]]></AssociationData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="ArashData"><File>Arash_Config.xml</File></UpdateDatabase><UpdateArt id="ArashArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="ArashText"><File>Arash_Pre_Loc.xml</File></UpdateText><UpdateIcons id="ArashIcon"><File>Arash_Icon.xml</File></UpdateIcons><UpdateColors id="ArashColor"><File>Arash_Colors.xml</File></UpdateColors></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="ArashData"><Criteria>LeaderCriteria</Criteria><File>Arash_Leader.xml</File><File>Arash_Data_0.sql</File></UpdateDatabase><UpdateAudio id="ArashAudio"><Criteria>LeaderCriteria</Criteria><File>Audio/Fate_Arash.ini</File><File>Audio/Fate_Arash.txt</File><File>Audio/Fate_Arash.bnk</File></UpdateAudio><AddUserInterfaces id="ArashUI"><Properties><Context>InGame</Context></Properties><Criteria>LeaderCriteria</Criteria><File>Arash_UI.xml</File></AddUserInterfaces><ImportFiles id="ArashFile"><Criteria>LeaderCriteria</Criteria><File>Arash_UI.lua</File></ImportFiles><AddGameplayScripts id="ArashLua"><Criteria>LeaderCriteria</Criteria><File>Arash.lua</File></AddGameplayScripts><UpdateLogitechARX id="ArashARX"><Criteria>LeaderCriteria</Criteria></UpdateLogitechARX><UpdateArt id="ArashArt"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="ArashIcon"><Criteria>LeaderCriteria</Criteria><File>Arash_Icon.xml</File></UpdateIcons><UpdateText id="ArashText"><Criteria>LeaderCriteria</Criteria><File>Arash_Pre_Loc.xml</File><File>Arash_In_Loc.xml</File></UpdateText><UpdateColors id="ArashColor"><File>Arash_Colors.xml</File></UpdateColors></InGameActions>]]></InGameActionData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_FATE_ARCHER_ARASH,Players:Expansion1_Players::LEADER_FATE_ARCHER_ARASH,Players:Expansion2_Players::LEADER_FATE_ARCHER_ARASH</LeaderPlayable></Criteria><Criteria id="LeaderCriteria_Expansion1"><LeaderPlayable>Players:Expansion1_Players::LEADER_FATE_ARCHER_ARASH</LeaderPlayable><RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse></Criteria><Criteria id="LeaderCriteria_Expansion2"><LeaderPlayable>Players:Expansion2_Players::LEADER_FATE_ARCHER_ARASH</LeaderPlayable><RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse></Criteria></ActionCriteria>]]></ActionCriteriaData>
+    <Homepage>https://steamcommunity.com/id/HaoJun0823</Homepage>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Arash.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_Data_0.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_Icon.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_In_Loc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_Leader.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_Pre_Loc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_UI.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Arash_UI.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Audio\470320995.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Audio\Fate_Arash.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Audio\Fate_Arash.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Audio\Fate_Arash.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Audio\SoundbanksInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\ARX\Civ_LEADER_FATE_ARCHER_ARASH.png">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Audio" />
+    <Folder Include="Data" />
+    <Folder Include="Data\ARX" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

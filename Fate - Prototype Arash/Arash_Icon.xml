@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arash_Icon -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 3/21/2019 2:46:40 PM -->
+<GameData>
+
+		<IconTextureAtlases>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_256.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_80.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_64.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_55.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_50.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_48.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_45.dds"/>
+			<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_32.dds"/>
+
+			<Row Name="ICON_LEADER_FATE_ARCHER_ARASH_CIV_45" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_CIV_45.dds"/>
+
+		</IconTextureAtlases>
+
+
+		<IconDefinitions>
+			<Row Name="ICON_LEADER_FATE_ARCHER_ARASH" Atlas="ATLAS_LEADER_LEADER_FATE_ARASH" index="0"/>
+			<Row Name="ICON_LEADER_FATE_ARCHER_ARASH_CIV" Atlas="ICON_LEADER_FATE_ARCHER_ARASH_CIV_45" index="0"/>
+		</IconDefinitions>
+
+
+
+	<IconTextureAtlases>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_256.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_80.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_64.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_55.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_50.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_48.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_45.dds"/>
+		<Row Name="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_ARASH_BODY_32.dds"/>
+	</IconTextureAtlases>
+
+
+	<IconDefinitions>
+		<Row Name="ICON_ATLAS_LEADER_FATE_ARASH_BODY" Atlas="ATLAS_LEADER_LEADER_FATE_ARASH_BODY" index="0"/>
+	</IconDefinitions>
+
+
+
+
+</GameData>
